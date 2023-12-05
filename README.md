@@ -29,11 +29,11 @@ I am always eager to learn new technologies and stay updated with the latest tre
 
 Here are some of the projects I've worked on:
 
-- **Project 1: IREC Shopping - An Ecommerce App**
+- **IREC Shopping - An Ecommerce App**
   Crafted an e-commerce app with PayPal integration and real-time order tracking via Google Maps, elevating functionality and user experience.
   (https://apkgk.com/com.hovtsolutions.grocery_app)
   
-- **Project 2: TownFlick - Superhero News App**
+- **TownFlick - Superhero News App**
   Created a superhero news app with Firebase backend, offering story highlights, user likes, bookmarks, efficient search, and seamless AdMob integration for a polished user experience.
   (https://play.google.com/store/apps/details?id=com.keybotix.townflick)
 
