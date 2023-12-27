@@ -13,10 +13,8 @@ I'm a passionate Android & iOS App Developer with a strong background in creatin
 ## 💼 Experience
 
 - **Keybotix Solutions, CEO & Flutter Developer (July 2022 - Present):**
-  Brief description of your role and responsibilities.
 
 - **Regional Plan9, Punajb Information Technology Board, Flutter Developer (Jan 2022 - July 2023):**
-  Another brief description of your role and achievements.
 
 ## 🌱 Currently Learning
 
