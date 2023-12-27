@@ -5,7 +5,7 @@ I'm a passionate Android & iOS App Developer with a strong background in creatin
 ## 🚀 Skills
 
 - **Programming Languages:** Dart, SQL, C++
-- **Mobile Development:** Android & iOS (Flutter)
+- **Mobile Development:** Android & iOS
 - **Cross-Platform:** Flutter
 - **UI/UX Design:** Adobe XD, Figma
 - **Version Control:** Git, GitHub
