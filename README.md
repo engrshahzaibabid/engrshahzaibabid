@@ -16,6 +16,8 @@ I'm a passionate Android & iOS App Developer with a strong background in creatin
 
 - **Regional Plan9, Punajb Information Technology Board, Flutter Developer (Jan 2022 - July 2023):**
 
+- **Freelance Flutter Developer (Nov 2020 - Dec 2021):**
+
 ## 🌱 Currently Learning
 
 I am always eager to learn new technologies and stay updated with the latest trends. Currently, I'm focused on:
