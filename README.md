@@ -12,6 +12,8 @@ I'm a passionate Android & iOS App Developer with a strong background in creatin
 
 ## 💼 Experience
 
+- **Crazy Tech AI Innovation Labs, Senior Flutter Developer (Nov 2023 - Present):**
+
 - **Keybotix Solutions, CEO & Flutter Developer (July 2022 - Present):**
 
 - **Regional Plan9, Punajb Information Technology Board, Flutter Developer (Jan 2022 - July 2023):**
