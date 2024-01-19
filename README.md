@@ -47,7 +47,7 @@ Feel free to reach out for collaboration or just to say hi:
 - Email: engrshahzaibabid@gmail.com
 - Phone: +923116484462
 
-## 🤝 Open to Collaboration
+## 🤝 Open for Collaboration
 
 I'm open to collaborating on interesting projects. If you have an idea or need help with mobile app development, feel free to contact me.
 
