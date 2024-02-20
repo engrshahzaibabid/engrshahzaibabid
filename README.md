@@ -1,54 +1,31 @@
-# Hello, I'm Shahzaib Abid 👋
+<h1 align="center">Hi 👋, I'm Shahzaib Abid</h1>
+<h3 align="center">A passionate Flutter Engineer with a strong background in creating cutting-edge mobile applications</h3>
 
-I'm a passionate Android & iOS App Developer with a strong background in creating cutting-edge mobile applications. I enjoy turning ideas into reality through code and strive to deliver high-quality, user-friendly solutions.
+- 🔭 I’m currently working at **Crazy Tech AI Innovation Labs**
 
-## 🚀 Skills
+- 🌱 I’m currently learning **AI & Machine Learning for mobile applications.**
 
-- **Programming Languages:** Dart, SQL, C++
-- **Mobile Development:** Android & iOS
-- **Cross-Platform:** Flutter
-- **UI/UX Design:** Adobe XD, Figma
-- **Version Control:** Git, GitHub
+- 👯 I’m looking to collaborate on **Android & iOS projects**
 
-## 💼 Experience
+- 🤝 I’m looking for help with **Mobile Applications**
 
-- **Crazy Tech AI Innovation Labs, Senior Flutter Developer** (Nov 2023 - Present)
+- 👨‍💻 All of my projects are available at [https://shahzaib.keybotix.com/](https://shahzaib.keybotix.com/)
 
-- **Keybotix Solutions, CEO & Flutter Developer** (July 2022 - Present)
+- 📝 I write articles on [https://medium.com/@engrshahzaibabid](https://medium.com/@engrshahzaibabid)
 
-- **Regional Plan9, Punajb Information Technology Board, Flutter Developer** (Jan 2022 - July 2023)
+- 💬 Ask me about **Flutter, Firebase,**
 
-- **Freelance Flutter Developer** (Nov 2020 - Dec 2021)
+- 📫 How to reach me **engrshahzaibabid@gmail.com**
 
-## 🌱 Currently Learning
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YgB3xTnhGhGIvjDPVgP21A8EyBseqvHq/view?usp=sharing](https://drive.google.com/file/d/1YgB3xTnhGhGIvjDPVgP21A8EyBseqvHq/view?usp=sharing)
 
-I am always eager to learn new technologies and stay updated with the latest trends. Currently, I'm focused on:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/engrshahzaibabid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engrshahzaibabid/" height="30" width="40" /></a>
+<a href="https://instagram.com/engrshahzaibabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engrshahzaibabid" height="30" width="40" /></a>
+<a href="https://medium.com/engrshahzaibabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="engrshahzaibabid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/keybotix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keybotix" height="30" width="40" /></a>
+</p>
 
-- Exploring machine learning for mobile applications.
-- Improving UI/UX design skills.
-
-## 📱 Projects
-
-Here are some of the projects I've worked on:
-
-- **IREC Shopping - An Ecommerce App**
-  Crafted an e-commerce app with PayPal integration and real-time order tracking via Google Maps, elevating functionality and user experience.
-  (https://apkgk.com/com.hovtsolutions.grocery_app)
-  
-- **TownFlick - Superhero News App**
-  Created a superhero news app with Firebase backend, offering story highlights, user likes, bookmarks, efficient search, and seamless AdMob integration for a polished user experience.
-  (https://play.google.com/store/apps/details?id=com.keybotix.townflick)
-
-## 📫 Let's Connect!
-
-Feel free to reach out for collaboration or just to say hi:
-
-- LinkedIn: https://www.linkedin.com/in/engrshahzaibabid/
-- Email: engrshahzaibabid@gmail.com
-- Phone: +923116484462
-
-## 🤝 Open for Collaboration
-
-I'm open to collaborating on interesting projects. If you have an idea or need help with mobile app development, feel free to contact me.
-
-Happy coding! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
