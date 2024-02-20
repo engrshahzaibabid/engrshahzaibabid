@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Crazy Tech AI Innovation Labs**
 
-### 🌱 Currently Learning
+<h3 align="left">🌱 Currently Learning:</h3>
 
 I am always eager to learn new technologies and stay updated with the latest trends. Currently, I'm focused on:
 
