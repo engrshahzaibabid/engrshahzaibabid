@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Crazy Tech AI Innovation Labs**
 
-<h3 align="left">🌱 Currently Learning:</h3>
+###🌱 Currently Learning
 
 I am always eager to learn new technologies and stay updated with the latest trends. Currently, I'm focused on:
 
@@ -33,3 +33,9 @@ I am always eager to learn new technologies and stay updated with the latest tre
 <a href="https://medium.com/engrshahzaibabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="engrshahzaibabid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/keybotix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keybotix" height="30" width="40" /></a>
 </p>
+
+## 🤝 Open for Collaboration
+
+I'm open to collaborating on interesting projects. If you have an idea or need help with mobile app development, feel free to contact me.
+
+Happy coding! 🚀
