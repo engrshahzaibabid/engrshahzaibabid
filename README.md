@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working at **Crazy Tech AI Innovation Labs**
 
-### 🌱 Currently Learning
-
-I am always eager to learn new technologies and stay updated with the latest trends. Currently, I'm focused on:
-
-- Exploring machine learning for mobile applications.
+- 🌱 I’m currently learning **AI & Machine Learning for mobile applications.**
 
 - 👯 I’m looking to collaborate on **Android & iOS projects**
 
@@ -31,7 +27,7 @@ I am always eager to learn new technologies and stay updated with the latest tre
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/engrshahzaibabid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engrshahzaibabid/" height="30" width="40" /></a>
 <a href="https://instagram.com/engrshahzaibabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engrshahzaibabid" height="30" width="40" /></a>
 <a href="https://medium.com/engrshahzaibabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="engrshahzaibabid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/keybotix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keybotix" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@keybotix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keybotix" height="30" width="40" /></a>
 </p>
 
 ## 🤝 Open for Collaboration
