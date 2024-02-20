@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Abid</h1>
 <h3 align="center">A passionate Flutter Engineer with a strong background in creating cutting-edge mobile applications.</h3>
 
-- 🔭 I’m currently working at **Crazy Tech AI Innovation Labs**
+- 🔭 I’m currently working at **Crazy Tech AI Innovation Labs** as a Senior Flutter Developer.
 
 - 🌱 I’m currently learning **AI & Machine Learning for mobile applications.**
-
-- 👯 I’m looking to collaborate on **Android & iOS projects**
-
-- 🤝 I’m looking for help with **Mobile Applications**
 
 - 👨‍💻 All of my projects are available at [https://shahzaib.keybotix.com/](https://shahzaib.keybotix.com/)
 
 - 📝 I write articles on [https://medium.com/@engrshahzaibabid](https://medium.com/@engrshahzaibabid)
-
-- 💬 Ask me about **Flutter, Firebase,**
 
 - 📫 How to reach me **engrshahzaibabid@gmail.com**
 
@@ -29,9 +23,5 @@
 <a href="https://medium.com/engrshahzaibabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="engrshahzaibabid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@keybotix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keybotix" height="30" width="40" /></a>
 </p>
-
-## 🤝 Open for Collaboration
-
-I'm open to collaborating on interesting projects. If you have an idea or need help with mobile app development, feel free to contact me.
 
 Happy coding! 🚀
