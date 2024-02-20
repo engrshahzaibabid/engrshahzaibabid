@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Abid</h1>
-<h3 align="center">A passionate Flutter Engineer with a strong background in creating cutting-edge mobile applications</h3>
+<h3 align="center">I'm a passionate Android & iOS App Developer with a strong background in creating cutting-edge mobile applications. I enjoy turning ideas into reality through code and strive to deliver high-quality, user-friendly solutions.</h3>
 
 - 🔭 I’m currently working at **Crazy Tech AI Innovation Labs**
 
