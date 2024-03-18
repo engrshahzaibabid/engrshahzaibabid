@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Abid</h1>
 <h3 align="center">A passionate Flutter Engineer with a strong background in creating cutting-edge mobile applications.</h3>
 
-- 🔭 I’m currently working at **Crazy Tech AI Innovation Labs** as a Senior Flutter Developer.
-
 - 🌱 I’m currently learning **AI & Machine Learning for mobile applications.**
 
 - 👨‍💻 All of my projects are available at [https://shahzaib.keybotix.com/](https://shahzaib.keybotix.com/)
