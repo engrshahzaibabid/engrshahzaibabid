@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Abid</h1>
 <h3 align="center">A passionate Flutter Engineer with a strong background in creating cutting-edge mobile applications.</h3>
 
-- 🌱 I’m currently learning **Node JS.**
-
-- 👨‍💻 All of my projects are available at [https://shahzaib.keybotix.com/](https://shahzaib.keybotix.com/)
-
-- 📝 I write articles on [https://medium.com/@engrshahzaibabid](https://medium.com/@engrshahzaibabid)
-
-- 📫 How to reach me **engrshahzaibabid@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YgB3xTnhGhGIvjDPVgP21A8EyBseqvHq/view?usp=sharing)
+- 📄 Know more about me and my work https://zaap.bio/shahzaibabid
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
