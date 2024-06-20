@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YgB3xTnhGhGIvjDPVgP21A8EyBseqvHq/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://user-images.githubusercontent.com/8855632/87745093-a4ba4b80-c7b2-11ea-91da-10f7603f413c.png)" alt="cubit" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
